@@ -12,6 +12,8 @@ TITLE: AGENT DUO CANTIK — SPY BAG RED CARPETDURATION: 30 secondsASPECT RATIO: 
 
 - Model: GPT IMAGE 2.5
 - Media Type: Image
+- Preview Image URL: https://pbs.twimg.com/media/HS28VSPbQAAb5j4.jpg
+- Media Asset Source: https://x.com/apaajadesainin/status/2102544400643670297
 - Fashion Use Case: Premium luxury handbag product commercial with strict cross-shot bag design, material, and hardware consistency
 - Content Category: Product Commercial
 - Product Category: Handbag

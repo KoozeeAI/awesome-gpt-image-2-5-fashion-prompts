@@ -22,6 +22,9 @@ The panel, divider lines, captions, crown icons and wordmark stay perfectly fixe
 
 - Model: GPT Image 2.5
 - Media Type: Video
+- Preview Image URL: https://pbs.twimg.com/amplify_video_thumb/2102454105415581696/img/lvihHRx34pyYo-fZ.jpg
+- Video URL: https://x.com/AI__TSUBAKI/status/2102459655700287648
+- Media Asset Source: https://x.com/AI__TSUBAKI/status/2102459655700287648
 - Fashion Use Case: Luxury catalog lookbook animation with synchronized full-outfit model turn and rotating product cutouts
 - Content Category: Lookbook Video
 - Product Category: Full Outfit

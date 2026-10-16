@@ -267,6 +267,8 @@ A visually arresting ZARA tote-bag MERCH DROP poster that could plausibly functi
 
 - Model: GPT IMAGE 2.5
 - Media Type: Image
+- Preview Image URL: https://pbs.twimg.com/media/HTs9GevbwAEnNo2.jpg
+- Media Asset Source: https://x.com/Diplomeme/status/2106344728837136616
 - Fashion Use Case: Reference-faithful handbag hero SKU in an editorial merch-drop campaign poster
 - Content Category: Campaign Poster
 - Product Category: Handbag

@@ -4,11 +4,31 @@ Explore curated GPT Image 2.5 fashion prompts for apparel campaigns, fashion pro
 
 Browse visual examples here, then open each Case page for the complete, unchanged Original Prompt.
 
-## 🧭 Explore the Collection
+**[Explore the web gallery →](https://pre.koozee.ai/tools/fashion-ai-prompt-library?qa=7f123b14)**
 
-- [Open the web gallery →](https://pre.koozee.ai/tools/fashion-ai-prompt-library?qa=7f123b14)
-- **3 curated prompts** for GPT Image 2.5
-- GPT Image 2.5 is an AI image generation model. In fashion workflows, it can support product imagery, model-led concepts, campaign directions, and e-commerce creative references built from detailed prompts.
+## 📚 Table of Contents
+
+- [What is GPT Image 2.5?](#-what-is-gpt-image-25)
+- [Statistics](#-statistics)
+- [Fashion Prompt Examples](#-fashion-prompt-examples)
+- [Browse by Category](#-browse-by-category)
+- [Create with KOOZEE](#-create-with-koozee)
+- [More Prompt Libraries](#-more-prompt-libraries)
+- [Source & Attribution](#-source--attribution)
+
+## 🧠 What is GPT Image 2.5?
+
+GPT Image 2.5 is an AI image generation model. In fashion workflows, it can support product imagery, model-led concepts, campaign directions, and e-commerce creative references built from detailed prompts.
+
+## 📊 Statistics
+
+| Metric | Count |
+| --- | ---: |
+| Total Prompts | 3 |
+| Image Prompts | 2 |
+| Video Prompts | 1 |
+| Product Categories | 2 |
+| Fashion Use Cases | 3 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -17,7 +37,7 @@ Browse visual examples here, then open each Case page for the complete, unchange
 #### 🖼️ Result Preview
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/HTs9GevbwAEnNo2.jpg" width="700" alt="Burgundy Leather Tote Merch Poster">
+<img src="https://pbs.twimg.com/media/HTs9GevbwAEnNo2.jpg" width="460" alt="Burgundy Leather Tote Merch Poster">
 </div>
 
 #### 📝 About This Case
@@ -63,14 +83,10 @@ The tote must remain visually faithful to the reference:
 #### ▶️ Video Preview
 
 <div align="center">
-
-<a href="https://x.com/AI__TSUBAKI/status/2102459655700287648">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102454105415581696/img/lvihHRx34pyYo-fZ.jpg" width="700" alt="Korean Outfit Lookbook Animation Video">
-</a>
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102454105415581696/img/lvihHRx34pyYo-fZ.jpg" width="460" alt="Korean Outfit Lookbook Animation Video">
+</div>
 
 **[Watch original video →](https://x.com/AI__TSUBAKI/status/2102459655700287648)**
-
-</div>
 
 #### 📝 About This Case
 
@@ -112,7 +128,7 @@ At the same time, every product cutout inside the item panel rotates in place on
 #### 🖼️ Result Preview
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/HS28VSPbQAAb5j4.jpg" width="700" alt="Luxury Spy Handbag Red Carpet Commercial">
+<img src="https://pbs.twimg.com/media/HS28VSPbQAAb5j4.jpg" width="460" alt="Luxury Spy Handbag Red Carpet Commercial">
 </div>
 
 #### 📝 About This Case

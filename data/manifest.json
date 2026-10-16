@@ -1,0 +1,41 @@
+{
+  "case_count": 3,
+  "cases": [
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Reference-faithful handbag hero SKU in an editorial merch-drop campaign poster",
+      "filename": "burgundy-leather-tote-merch-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Handbag",
+      "raw_model": "GPT IMAGE 2.5",
+      "source_path": "cases/burgundy-leather-tote-merch-poster.md",
+      "title": "Burgundy Leather Tote Merch Poster"
+    },
+    {
+      "content_category": "Lookbook Video",
+      "fashion_use_case": "Luxury catalog lookbook animation with synchronized full-outfit model turn and rotating product cutouts",
+      "filename": "korean-outfit-lookbook-animation-video.md",
+      "media_type": "Video",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/korean-outfit-lookbook-animation-video.md",
+      "title": "Korean Outfit Lookbook Animation Video"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Premium luxury handbag product commercial with strict cross-shot bag design, material, and hardware consistency",
+      "filename": "luxury-spy-handbag-red-carpet-commercial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Handbag",
+      "raw_model": "GPT IMAGE 2.5",
+      "source_path": "cases/luxury-spy-handbag-red-carpet-commercial.md",
+      "title": "Luxury Spy Handbag Red Carpet Commercial"
+    }
+  ],
+  "generated_from": "KoozeeAI/ai-fashion-prompts",
+  "normalized_model_key": "gpt-image-2-5",
+  "repository": "KoozeeAI/awesome-gpt-image-2-5-fashion-prompts"
+}

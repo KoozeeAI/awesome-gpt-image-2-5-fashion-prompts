@@ -4,21 +4,38 @@ Explore curated GPT Image 2.5 fashion prompts for apparel campaigns, fashion pro
 
 Browse visual examples here, then open each Case page for the complete, unchanged Original Prompt.
 
-**[Explore the web gallery →](https://pre.koozee.ai/tools/fashion-ai-prompt-library?qa=7f123b14)**
+**[Explore GPT Image 2.5 fashion prompts on KOOZEE →](https://koozee.ai/prompts)**
 
 ## 📚 Table of Contents
 
+- [Quick Start](#-quick-start)
 - [What is GPT Image 2.5?](#-what-is-gpt-image-25)
 - [Statistics](#-statistics)
 - [Fashion Prompt Examples](#-fashion-prompt-examples)
-- [Browse by Category](#-browse-by-category)
+- [Browse Fashion Prompts by Category](#-browse-fashion-prompts-by-category)
 - [Create with KOOZEE](#-create-with-koozee)
 - [More Prompt Libraries](#-more-prompt-libraries)
 - [Source & Attribution](#-source--attribution)
 
+## ⚡ Quick Start
+
+1. Browse the fashion prompt examples below and choose a case close to your goal.
+2. Open the full Case to copy the complete original prompt.
+3. Adapt the product, styling, composition, model, or campaign details to your own fashion creative.
+4. Use the prompt with GPT Image 2.5 or continue creating with KOOZEE.
+
 ## 🧠 What is GPT Image 2.5?
 
 GPT Image 2.5 is an AI image generation model. In fashion workflows, it can support product imagery, model-led concepts, campaign directions, and e-commerce creative references built from detailed prompts.
+
+### Common Fashion Use Cases
+
+- E-commerce product photography
+- Apparel campaign visuals
+- Handbag and footwear advertising
+- AI fashion model imagery
+- Fashion lookbooks and editorial concepts
+- Product launch and social ad creatives
 
 ## 📊 Statistics
 
@@ -156,7 +173,9 @@ TITLE: AGENT DUO CANTIK — SPY BAG RED CARPETDURATION: 30 secondsASPECT RATIO: 
 - **Creator:** KemenGambar (@apaajadesainin)
 - **Source:** [View original source](https://x.com/apaajadesainin/status/2102544400643670297)
 
-## 🧩 Browse by Category
+## 🧩 Browse Fashion Prompts by Category
+
+Explore GPT Image 2.5 fashion prompts for product photography, campaign creatives, fashion lookbooks, handbag and footwear advertising, AI fashion model imagery, and other e-commerce use cases.
 
 - [Browse by fashion use case →](./indexes/by-fashion-use-case.md)
 - [Browse by content category →](./indexes/by-content-category.md)

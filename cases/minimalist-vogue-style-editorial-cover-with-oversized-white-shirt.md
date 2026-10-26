@@ -1,6 +1,6 @@
 # Minimalist Vogue-style editorial cover with oversized white shirt
 
-A curated AI fashion prompt for High-fashion magazine cover / editorial photography with specified styling and garment · Image.
+A curated AI fashion prompt for Tops · High-fashion magazine cover / editorial photography with specified styling and garment · Image.
 
 ## Prompt
 
@@ -16,8 +16,8 @@ Vertical portrait composition, sophisticated fashion magazine cover, minimal typ
 - Preview Image URL: https://pbs.twimg.com/media/HR8UcJGaQAAA8KH.jpg
 - Media Asset Source: https://x.com/harboriis/status/2098418433226612740
 - Fashion Use Case: High-fashion magazine cover / editorial photography with specified styling and garment
-- Content Category: Not specified
-- Product Category: Not specified
+- Content Category: Fashion Editorial
+- Product Category: Tops
 - Creator: Harboris
 
 ## Source

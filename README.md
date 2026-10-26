@@ -44,7 +44,7 @@ GPT Image 2.5 is an AI image generation model. In fashion workflows, it can supp
 | Total Prompts | 7 |
 | Image Prompts | 5 |
 | Video Prompts | 2 |
-| Product Categories | 4 |
+| Product Categories | 5 |
 | Fashion Use Cases | 7 |
 
 ## ✨ Fashion Prompt Examples
@@ -235,7 +235,7 @@ TITLE: AGENT DUO CANTIK — SPY BAG RED CARPETDURATION: 30 secondsASPECT RATIO: 
 
 #### 📝 About This Case
 
-A curated AI fashion prompt for Fashion editorial poster with coordinated hat-and-blouse outfit styling · Image.
+A curated AI fashion prompt for Mixed Fashion · Fashion editorial poster with coordinated hat-and-blouse outfit styling · Image.
 
 #### 💬 Prompt Preview
 
@@ -257,8 +257,8 @@ Use warm studio lighting, soft natural skin texture, subtle shadows,
 - **Model:** GPT Image 2.5
 - **Media Type:** Image
 - **Fashion Use Case:** Fashion editorial poster with coordinated hat-and-blouse outfit styling
-- **Content Category:** Not specified
-- **Product Category:** Not specified
+- **Content Category:** Fashion Editorial
+- **Product Category:** Mixed Fashion
 - **Creator:** Harboris
 - **Source:** [View original source](https://x.com/harboriis/status/2099350017844867510)
 
@@ -274,7 +274,7 @@ Use warm studio lighting, soft natural skin texture, subtle shadows,
 
 #### 📝 About This Case
 
-A curated AI fashion prompt for High-fashion magazine cover / editorial photography with specified styling and garment · Image.
+A curated AI fashion prompt for Tops · High-fashion magazine cover / editorial photography with specified styling and garment · Image.
 
 #### 💬 Prompt Preview
 
@@ -292,8 +292,8 @@ At the top, add a large black high-fashion magazine masthead reading “VOG
 - **Model:** GPT Image 2.5
 - **Media Type:** Image
 - **Fashion Use Case:** High-fashion magazine cover / editorial photography with specified styling and garment
-- **Content Category:** Not specified
-- **Product Category:** Not specified
+- **Content Category:** Fashion Editorial
+- **Product Category:** Tops
 - **Creator:** Harboris
 - **Source:** [View original source](https://x.com/harboriis/status/2098418433226612740)
 

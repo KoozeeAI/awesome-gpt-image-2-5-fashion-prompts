@@ -1,6 +1,6 @@
 # Minimalist burnt-orange fashion editorial poster with panel cutout
 
-A curated AI fashion prompt for Fashion editorial poster with coordinated hat-and-blouse outfit styling · Image.
+A curated AI fashion prompt for Mixed Fashion · Fashion editorial poster with coordinated hat-and-blouse outfit styling · Image.
 
 ## Prompt
 
@@ -21,8 +21,8 @@ No text, no logos, no typography, no borders, no extra objects. Focus entirely o
 - Preview Image URL: https://pbs.twimg.com/media/HSJjtG4bYAAF5_2.jpg
 - Media Asset Source: https://x.com/harboriis/status/2099350017844867510
 - Fashion Use Case: Fashion editorial poster with coordinated hat-and-blouse outfit styling
-- Content Category: Not specified
-- Product Category: Not specified
+- Content Category: Fashion Editorial
+- Product Category: Mixed Fashion
 - Creator: Harboris
 
 ## Source

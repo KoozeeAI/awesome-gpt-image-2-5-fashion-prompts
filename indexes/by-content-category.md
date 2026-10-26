@@ -9,8 +9,10 @@ Explore prompts by their primary fashion output type.
 - [Luxury Burgundy Sandal Footwear Commercial](../cases/luxury-burgundy-sandal-footwear-commercial.md)
 - [Luxury Spy Handbag Red Carpet Commercial](../cases/luxury-spy-handbag-red-carpet-commercial.md)
 
-### Fashion Editorial (1)
+### Fashion Editorial (3)
 
+- [Minimalist burnt-orange fashion editorial poster with panel cutout](../cases/minimalist-burnt-orange-fashion-editorial-poster-with-panel-cutout.md)
+- [Minimalist Vogue-style editorial cover with oversized white shirt](../cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md)
 - [Y2K Luxury Sneaker Campaign Editorial](../cases/y2k-luxury-sneaker-campaign-editorial.md)
 
 ### Campaign Poster (1)
@@ -20,8 +22,3 @@ Explore prompts by their primary fashion output type.
 ### Lookbook Video (1)
 
 - [Korean Outfit Lookbook Animation Video](../cases/korean-outfit-lookbook-animation-video.md)
-
-### Not specified (2)
-
-- [Minimalist burnt-orange fashion editorial poster with panel cutout](../cases/minimalist-burnt-orange-fashion-editorial-poster-with-panel-cutout.md)
-- [Minimalist Vogue-style editorial cover with oversized white shirt](../cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md)

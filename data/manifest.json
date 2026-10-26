@@ -46,23 +46,23 @@
       "title": "Luxury Spy Handbag Red Carpet Commercial"
     },
     {
-      "content_category": "Not specified",
+      "content_category": "Fashion Editorial",
       "fashion_use_case": "Fashion editorial poster with coordinated hat-and-blouse outfit styling",
       "filename": "minimalist-burnt-orange-fashion-editorial-poster-with-panel-cutout.md",
       "media_type": "Image",
       "normalized_model_key": "gpt-image-2-5",
-      "product_category": "Not specified",
+      "product_category": "Mixed Fashion",
       "raw_model": "GPT Image 2.5",
       "source_path": "cases/minimalist-burnt-orange-fashion-editorial-poster-with-panel-cutout.md",
       "title": "Minimalist burnt-orange fashion editorial poster with panel cutout"
     },
     {
-      "content_category": "Not specified",
+      "content_category": "Fashion Editorial",
       "fashion_use_case": "High-fashion magazine cover / editorial photography with specified styling and garment",
       "filename": "minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md",
       "media_type": "Image",
       "normalized_model_key": "gpt-image-2-5",
-      "product_category": "Not specified",
+      "product_category": "Tops",
       "raw_model": "GPT Image 2.5",
       "source_path": "cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md",
       "title": "Minimalist Vogue-style editorial cover with oversized white shirt"

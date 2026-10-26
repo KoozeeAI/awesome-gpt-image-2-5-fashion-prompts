@@ -15,9 +15,13 @@ Explore prompts by their primary fashion output type.
 - [Minimalist Vogue-style editorial cover with oversized white shirt](../cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md)
 - [Y2K Luxury Sneaker Campaign Editorial](../cases/y2k-luxury-sneaker-campaign-editorial.md)
 
-### Campaign Poster (1)
+### Campaign Poster (5)
 
 - [Burgundy Leather Tote Merch Poster](../cases/burgundy-leather-tote-merch-poster.md)
+- [Hot-Pink Sunglasses Street Campaign Poster](../cases/hot-pink-sunglasses-street-campaign-poster.md)
+- [Luxury Footwear Hosiery Campaign Poster](../cases/luxury-footwear-hosiery-campaign-poster.md)
+- [Luxury Shopping Bag Campaign Poster](../cases/luxury-shopping-bag-campaign-poster.md)
+- [Scarlet Resort Knit Dress Campaign Poster](../cases/scarlet-resort-knit-dress-campaign-poster.md)
 
 ### Lookbook Video (1)
 

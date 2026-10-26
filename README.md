@@ -41,11 +41,11 @@ GPT Image 2.5 is an AI image generation model. In fashion workflows, it can supp
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 7 |
-| Image Prompts | 5 |
+| Total Prompts | 11 |
+| Image Prompts | 9 |
 | Video Prompts | 2 |
-| Product Categories | 5 |
-| Fashion Use Cases | 7 |
+| Product Categories | 7 |
+| Fashion Use Cases | 11 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -95,7 +95,44 @@ The tote must remain visually faithful to the reference:
 
 ---
 
-### No. 2: Korean Outfit Lookbook Animation Video
+### No. 2: Hot-Pink Sunglasses Street Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVZSiEIb0AApN0I.jpg" width="460" alt="Hot-Pink Sunglasses Street Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Accessories · Eyewear brand campaign key visual with hero product detail and graphic poster layout · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical street-fashion eyewear poster for the original overseas brand "ARTAIRUS", combining a raw upward street moment, precise sunglasses detail, and a reduced graphic-poster layout. The hero product is the "ORBIT PINK SUNGLASSES", glossy round-lens sunglasses with a translucent hot-pink acetate frame. The visual style is extreme low-angle monochrome street photography fused with flat fluorescent pink circle overlays and a minimal red-orange brand banner.
+
+Extreme low-angle street viewpoint from below knee height, looking upward at an adult fashion model walking past the camera. The model fills the vertical center from legs to head, with the sunglasses near the upper third and clearly readable against the pale sky and overhead utility wires. The crop is dramatic: legs and skirt dominate the lower half, torso and sunglasses rise into the top half.
+
+The model forms a strong central vertical axis. Fluorescent hot-pink circles sit behind and around her as flat graphic layers
+```
+...
+
+**[View full prompt →](./cases/hot-pink-sunglasses-street-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Eyewear brand campaign key visual with hero product detail and graphic poster layout
+- **Content Category:** Campaign Poster
+- **Product Category:** Accessories
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113967858724081797)
+
+---
+
+### No. 3: Korean Outfit Lookbook Animation Video
 
 #### ▶️ Video Preview
 
@@ -140,7 +177,7 @@ At the same time, every product cutout inside the item panel rotates in place on
 
 ---
 
-### No. 3: Luxury Burgundy Sandal Footwear Commercial
+### No. 4: Luxury Burgundy Sandal Footwear Commercial
 
 #### ▶️ Video Preview
 
@@ -190,7 +227,77 @@ Dark futuristic fashion runway.
 
 ---
 
-### No. 4: Luxury Spy Handbag Red Carpet Commercial
+### No. 5: Luxury Footwear Hosiery Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVVOy6gb0AA8bLe.jpg" width="460" alt="Luxury Footwear Hosiery Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Product-centered fashion campaign poster with strict footwear and hosiery fidelity · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical luxury footwear and hosiery poster for the original overseas brand "NOCTELLE", merging a controlled press-call narrative with precise footwear and sheer-tights detail. The hero products are the NOCTELLE "VELVET STEP HEEL" and "PRESSLINE TIGHTS". The style is clean white-studio fashion photography with a reduced, asymmetrical media setup: only a few cropped cameras and microphones enter the frame, all directing attention to the model’s legs and black satin heel without visual chaos.
+
+Medium full-body studio framing on a white seamless background, slightly low eye-level. The adult model stands centered but slightly right. One leg bears weight; the other bends upward so the black heel, ankle strap, and sheer tights become the main readable product zone. The model wears a minimal black one-shoulder mini dress. Her lifted leg creates a diagonal from lower left toward center, placing the shoe near the lower-left focal area. One hand hovers near the lifted shoe without t
+```
+...
+
+**[View full prompt →](./cases/luxury-footwear-hosiery-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Product-centered fashion campaign poster with strict footwear and hosiery fidelity
+- **Content Category:** Campaign Poster
+- **Product Category:** Mixed Fashion
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113682258825797842)
+
+---
+
+### No. 6: Luxury Shopping Bag Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HUxT8LQaQAE2gKW.jpg" width="460" alt="Luxury Shopping Bag Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Handbag · Product-first luxury retail destination launch poster with monumental shopping bag as hero fashion product · Image.
+
+#### 💬 Prompt Preview
+
+```
+Create a premium vertical commercial poster for a fictional heritage-luxury retail destination brand, MIRAGE CHOWK. Build it as a product-first architectural installation where a monumental premium shopping bag dominates the center-right of a serene contemporary atrium. Its front face opens through a grand arched cutout into a luminous miniature old-city marketplace, contrasting modern retail minimalism with warm cultural depth. The image should feel like a real flagship launch campaign: collectible, refined, emotionally rich, and visually immediate, while keeping the giant branded bag as the absolute primary subject.
+
+Use a vertical poster format at eye level to slightly low angle, with a large pale sky-blue negative-space field in the upper-left for typography. Preserve the structural rhythm: elegant headline block on the left, giant shopping bag slightly right of center, a hanging side tag near the upper-right handle, a small seated viewer in the lower-left foreground, sparse books
+```
+...
+
+**[View full prompt →](./cases/luxury-shopping-bag-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Product-first luxury retail destination launch poster with monumental shopping bag as hero fashion product
+- **Content Category:** Campaign Poster
+- **Product Category:** Handbag
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2111154644546408739)
+
+---
+
+### No. 7: Luxury Spy Handbag Red Carpet Commercial
 
 #### 🖼️ Result Preview
 
@@ -225,7 +332,7 @@ TITLE: AGENT DUO CANTIK — SPY BAG RED CARPETDURATION: 30 secondsASPECT RATIO: 
 
 ---
 
-### No. 5: Minimalist burnt-orange fashion editorial poster with panel cutout
+### No. 8: Minimalist burnt-orange fashion editorial poster with panel cutout
 
 #### 🖼️ Result Preview
 
@@ -264,7 +371,7 @@ Use warm studio lighting, soft natural skin texture, subtle shadows,
 
 ---
 
-### No. 6: Minimalist Vogue-style editorial cover with oversized white shirt
+### No. 9: Minimalist Vogue-style editorial cover with oversized white shirt
 
 #### 🖼️ Result Preview
 
@@ -299,7 +406,44 @@ At the top, add a large black high-fashion magazine masthead reading “VOG
 
 ---
 
-### No. 7: Y2K Luxury Sneaker Campaign Editorial
+### No. 10: Scarlet Resort Knit Dress Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVUJd-bboAAlTpJ.jpg" width="460" alt="Scarlet Resort Knit Dress Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Luxury resort knitwear campaign key visual with hero garment construction and typography · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical luxury resort fashion advertising poster for the original overseas knitwear brand "MARELUNE", merging a quiet yacht-reading narrative with precise scarlet knitwear construction. The hero product is the MARELUNE "SIREN BACK-KNIT DRESS", a scarlet textured open-back resort knit dress. The image combines warm yacht-deck editorial photography, deep teal sea as the upper negative field, varnished mahogany deck, cream upholstery, polished chrome rail lines, and layered white fashion typography.
+
+Medium telephoto fashion framing from deck level, looking slightly upward across the stern seating area. The adult model sits sideways with her back and side profile visible at center. The ocean fills the upper background as a dark teal graphic field, while the glossy wooden deck fills the lower foreground with warm diagonal geometry and reflected sunlight.
+
+The scarlet knit dress is the dominant product mass, forming a rounded sculptural silhouette against the teal sea. The mod
+```
+...
+
+**[View full prompt →](./cases/scarlet-resort-knit-dress-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury resort knitwear campaign key visual with hero garment construction and typography
+- **Content Category:** Campaign Poster
+- **Product Category:** Dress
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113606050326937987)
+
+---
+
+### No. 11: Y2K Luxury Sneaker Campaign Editorial
 
 #### 🖼️ Result Preview
 

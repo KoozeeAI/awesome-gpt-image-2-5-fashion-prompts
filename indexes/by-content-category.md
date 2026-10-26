@@ -15,7 +15,7 @@ Explore prompts by their primary fashion output type.
 - [Minimalist Vogue-style editorial cover with oversized white shirt](../cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md)
 - [Y2K Luxury Sneaker Campaign Editorial](../cases/y2k-luxury-sneaker-campaign-editorial.md)
 
-### Campaign Poster (10)
+### Campaign Poster (11)
 
 - [Burgundy Leather Tote Merch Poster](../cases/burgundy-leather-tote-merch-poster.md)
 - [Hot-Pink Sunglasses Street Campaign Poster](../cases/hot-pink-sunglasses-street-campaign-poster.md)
@@ -24,6 +24,7 @@ Explore prompts by their primary fashion output type.
 - [Luxury Shopping Bag Campaign Poster](../cases/luxury-shopping-bag-campaign-poster.md)
 - [Luxury Swimwear Underwater Campaign Poster](../cases/luxury-swimwear-underwater-campaign-poster.md)
 - [Maroon Canvas High-Top Campaign Poster](../cases/maroon-canvas-high-top-campaign-poster.md)
+- [Overhead Racing Suit Campaign Poster](../cases/overhead-racing-suit-campaign-poster.md)
 - [Powder-Blue Trunk Bag Campaign Poster](../cases/powder-blue-trunk-bag-campaign-poster.md)
 - [Rouge Fold Evening Dress Campaign Poster](../cases/rouge-fold-evening-dress-campaign-poster.md)
 - [Scarlet Resort Knit Dress Campaign Poster](../cases/scarlet-resort-knit-dress-campaign-poster.md)

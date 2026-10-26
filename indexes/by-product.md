@@ -35,9 +35,10 @@ Explore prompts by the fashion product featured in each case.
 
 - [Hot-Pink Sunglasses Street Campaign Poster](../cases/hot-pink-sunglasses-street-campaign-poster.md)
 
-### Full Outfit (1)
+### Full Outfit (2)
 
 - [Korean Outfit Lookbook Animation Video](../cases/korean-outfit-lookbook-animation-video.md)
+- [Overhead Racing Suit Campaign Poster](../cases/overhead-racing-suit-campaign-poster.md)
 
 ### Mixed Fashion (2)
 

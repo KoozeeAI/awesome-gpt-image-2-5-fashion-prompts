@@ -40,6 +40,10 @@ Explore prompts by their intended fashion use case.
 
 - [Luxury Spy Handbag Red Carpet Commercial](../cases/luxury-spy-handbag-red-carpet-commercial.md)
 
+### Product commercial poster with hero racing suit and helmet construction showcase (1)
+
+- [Overhead Racing Suit Campaign Poster](../cases/overhead-racing-suit-campaign-poster.md)
+
 ### Product-centered fashion campaign poster with strict footwear and hosiery fidelity (1)
 
 - [Luxury Footwear Hosiery Campaign Poster](../cases/luxury-footwear-hosiery-campaign-poster.md)

@@ -1,5 +1,5 @@
 {
-  "case_count": 16,
+  "case_count": 17,
   "cases": [
     {
       "content_category": "Campaign Poster",
@@ -132,6 +132,17 @@
       "raw_model": "GPT Image 2.5",
       "source_path": "cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md",
       "title": "Minimalist Vogue-style editorial cover with oversized white shirt"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Product commercial poster with hero racing suit and helmet construction showcase",
+      "filename": "overhead-racing-suit-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/overhead-racing-suit-campaign-poster.md",
+      "title": "Overhead Racing Suit Campaign Poster"
     },
     {
       "content_category": "Campaign Poster",

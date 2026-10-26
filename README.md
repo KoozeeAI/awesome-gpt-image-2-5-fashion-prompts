@@ -41,11 +41,11 @@ GPT Image 2.5 is an AI image generation model. In fashion workflows, it can supp
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 16 |
-| Image Prompts | 14 |
+| Total Prompts | 17 |
+| Image Prompts | 15 |
 | Video Prompts | 2 |
 | Product Categories | 8 |
-| Fashion Use Cases | 16 |
+| Fashion Use Cases | 17 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -517,7 +517,44 @@ At the top, add a large black high-fashion magazine masthead reading “VOG
 
 ---
 
-### No. 13: Powder-Blue Trunk Bag Campaign Poster
+### No. 13: Overhead Racing Suit Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVVS0mGbAAA2bQv.jpg" width="460" alt="Overhead Racing Suit Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Product commercial poster with hero racing suit and helmet construction showcase · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical motorsport lifestyle poster for the original brand "VOLTERRA GP", combining quiet post-race departure, precise technical apparel construction, and an austere film-poster layout. The hero product is the "APEX SHADOW RACING SUIT", a white-and-black premium racing suit with matching helmet. The style is stark high-key overhead motorsport editorial photography: vast white negative space, a top-cropped race car, one solitary adult driver, long diagonal shadows, and sparse black typography.
+
+Strict high overhead viewpoint, looking straight down onto a white studio-floor plane. The race car is cropped at the very top edge, showing only the front wing, nose, front wheels, cockpit rim, and suspension. The driver walks below it through the center field toward the lower typography. The lower third remains clean and open for brand and product title.
+
+The top-cropped car creates the first heavy black mechanical shape. The walking driver sits below it as a smaller human scale m
+```
+...
+
+**[View full prompt →](./cases/overhead-racing-suit-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Product commercial poster with hero racing suit and helmet construction showcase
+- **Content Category:** Campaign Poster
+- **Product Category:** Full Outfit
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113686734953411058)
+
+---
+
+### No. 14: Powder-Blue Trunk Bag Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -554,7 +591,7 @@ Two tall red sculptural slabs stand at the left and right edges, with cool teal 
 
 ---
 
-### No. 14: Rouge Fold Evening Dress Campaign Poster
+### No. 15: Rouge Fold Evening Dress Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -591,7 +628,7 @@ The model and dress form the main photographic layer. A square embedded product 
 
 ---
 
-### No. 15: Scarlet Resort Knit Dress Campaign Poster
+### No. 16: Scarlet Resort Knit Dress Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -628,7 +665,7 @@ The scarlet knit dress is the dominant product mass, forming a rounded sculptura
 
 ---
 
-### No. 16: Y2K Luxury Sneaker Campaign Editorial
+### No. 17: Y2K Luxury Sneaker Campaign Editorial
 
 #### 🖼️ Result Preview
 

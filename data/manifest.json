@@ -1,5 +1,5 @@
 {
-  "case_count": 14,
+  "case_count": 16,
   "cases": [
     {
       "content_category": "Campaign Poster",
@@ -91,6 +91,17 @@
     },
     {
       "content_category": "Campaign Poster",
+      "fashion_use_case": "Branded resort swimwear campaign poster with strict garment material fidelity, wet-fabric behavior, and product-forward layout",
+      "filename": "luxury-swimwear-underwater-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Swimwear",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/luxury-swimwear-underwater-campaign-poster.md",
+      "title": "Luxury Swimwear Underwater Campaign Poster"
+    },
+    {
+      "content_category": "Campaign Poster",
       "fashion_use_case": "Streetwear sneaker product poster with worn-on-foot hero and isolated catalog cutout",
       "filename": "maroon-canvas-high-top-campaign-poster.md",
       "media_type": "Image",
@@ -132,6 +143,17 @@
       "raw_model": "GPT Image 2.5",
       "source_path": "cases/powder-blue-trunk-bag-campaign-poster.md",
       "title": "Powder-Blue Trunk Bag Campaign Poster"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Luxury product-sheet campaign poster with hero garment, satin fold construction fidelity, and embedded detail card aligned to the same dress",
+      "filename": "rouge-fold-evening-dress-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Dress",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/rouge-fold-evening-dress-campaign-poster.md",
+      "title": "Rouge Fold Evening Dress Campaign Poster"
     },
     {
       "content_category": "Campaign Poster",

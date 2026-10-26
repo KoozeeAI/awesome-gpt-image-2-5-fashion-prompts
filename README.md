@@ -41,11 +41,11 @@ GPT Image 2.5 is an AI image generation model. In fashion workflows, it can supp
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 14 |
-| Image Prompts | 12 |
+| Total Prompts | 16 |
+| Image Prompts | 14 |
 | Video Prompts | 2 |
-| Product Categories | 7 |
-| Fashion Use Cases | 14 |
+| Product Categories | 8 |
+| Fashion Use Cases | 16 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -369,7 +369,44 @@ TITLE: AGENT DUO CANTIK — SPY BAG RED CARPETDURATION: 30 secondsASPECT RATIO: 
 
 ---
 
-### No. 9: Maroon Canvas High-Top Campaign Poster
+### No. 9: Luxury Swimwear Underwater Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVVXf3sa8AAogQa.jpg" width="460" alt="Luxury Swimwear Underwater Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Swimwear · Branded resort swimwear campaign poster with strict garment material fidelity, wet-fabric behavior, and product-forward layout · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical luxury swimwear poster for the original resort brand "AQUALIRA", combining underwater suspension, precise swimwear material detail, and a reduced cover-like editorial layout. The hero product is the "MAREA VEIL SWIM SET", a seafoam-blue textured swimsuit with a translucent peach organza overskirt and pearl-like neckline details. The style is underwater fashion-magazine photography: a central adult model floating beneath clear turquoise water, soft rippled distortion, an oversized translucent serif masthead, and minimal white typography.
+
+Strict overhead viewpoint looking directly down through shallow clear water. The adult model floats vertically in the center, head near the upper middle, legs extending toward the lower field. The entire background is water only, with no pool edge, no land, and no props. Mild surface ripples preserve the product silhouette and neckline details.
+
+The model forms a long central vertical figure suspended in turquoise water. The trans
+```
+...
+
+**[View full prompt →](./cases/luxury-swimwear-underwater-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Branded resort swimwear campaign poster with strict garment material fidelity, wet-fabric behavior, and product-forward layout
+- **Content Category:** Campaign Poster
+- **Product Category:** Swimwear
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113693547937587308)
+
+---
+
+### No. 10: Maroon Canvas High-Top Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -406,7 +443,7 @@ A large faded teal rectangle fills most of the background, with the oversized ti
 
 ---
 
-### No. 10: Minimalist burnt-orange fashion editorial poster with panel cutout
+### No. 11: Minimalist burnt-orange fashion editorial poster with panel cutout
 
 #### 🖼️ Result Preview
 
@@ -445,7 +482,7 @@ Use warm studio lighting, soft natural skin texture, subtle shadows,
 
 ---
 
-### No. 11: Minimalist Vogue-style editorial cover with oversized white shirt
+### No. 12: Minimalist Vogue-style editorial cover with oversized white shirt
 
 #### 🖼️ Result Preview
 
@@ -480,7 +517,7 @@ At the top, add a large black high-fashion magazine masthead reading “VOG
 
 ---
 
-### No. 12: Powder-Blue Trunk Bag Campaign Poster
+### No. 13: Powder-Blue Trunk Bag Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -517,7 +554,44 @@ Two tall red sculptural slabs stand at the left and right edges, with cool teal 
 
 ---
 
-### No. 13: Scarlet Resort Knit Dress Campaign Poster
+### No. 14: Rouge Fold Evening Dress Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVZRlK7bUAE4gmK.jpg" width="460" alt="Rouge Fold Evening Dress Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Luxury product-sheet campaign poster with hero garment, satin fold construction fidelity, and embedded detail card aligned to the same dress · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical luxury fashion product poster for the original atelier brand "VARELLE", centered on the "ROUGE FOLD DRESS", a black satin off-shoulder evening dress with one sculptural crimson folded shoulder panel. The image should read as monochrome editorial product-sheet advertising with one controlled red accent: grayscale model photography, scratched silver-gray background, an embedded product-detail card, bold masthead typography, and a clean fashion-spec layout.
+
+Frontal three-quarter studio portrait from head to upper thighs, camera slightly below eye level. An adult platinum-blonde model stands slightly right of center, leaning forward so the dress occupies the central and lower frame. The face, neckline, crimson shoulder structure, black satin waist drape, and embedded detail card must all sit within one unified poster plane.
+
+The model and dress form the main photographic layer. A square embedded product card overlaps the right chest/shoulder zone as part of the layou
+```
+...
+
+**[View full prompt →](./cases/rouge-fold-evening-dress-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury product-sheet campaign poster with hero garment, satin fold construction fidelity, and embedded detail card aligned to the same dress
+- **Content Category:** Campaign Poster
+- **Product Category:** Dress
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113966812111237247)
+
+---
+
+### No. 15: Scarlet Resort Knit Dress Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -554,7 +628,7 @@ The scarlet knit dress is the dominant product mass, forming a rounded sculptura
 
 ---
 
-### No. 14: Y2K Luxury Sneaker Campaign Editorial
+### No. 16: Y2K Luxury Sneaker Campaign Editorial
 
 #### 🖼️ Result Preview
 

@@ -1,5 +1,5 @@
 {
-  "case_count": 11,
+  "case_count": 14,
   "cases": [
     {
       "content_category": "Campaign Poster",
@@ -22,6 +22,17 @@
       "raw_model": "GPT Image 2.5",
       "source_path": "cases/hot-pink-sunglasses-street-campaign-poster.md",
       "title": "Hot-Pink Sunglasses Street Campaign Poster"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Product-centered luxury travel-bag fashion campaign with hero duffel dominance, material fidelity, and commercial poster layout",
+      "filename": "ivory-padded-duffel-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Handbag",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/ivory-padded-duffel-campaign-poster.md",
+      "title": "Ivory Padded Duffel Campaign Poster"
     },
     {
       "content_category": "Lookbook Video",
@@ -79,6 +90,17 @@
       "title": "Luxury Spy Handbag Red Carpet Commercial"
     },
     {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Streetwear sneaker product poster with worn-on-foot hero and isolated catalog cutout",
+      "filename": "maroon-canvas-high-top-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Shoes",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/maroon-canvas-high-top-campaign-poster.md",
+      "title": "Maroon Canvas High-Top Campaign Poster"
+    },
+    {
       "content_category": "Fashion Editorial",
       "fashion_use_case": "Fashion editorial poster with coordinated hat-and-blouse outfit styling",
       "filename": "minimalist-burnt-orange-fashion-editorial-poster-with-panel-cutout.md",
@@ -99,6 +121,17 @@
       "raw_model": "GPT Image 2.5",
       "source_path": "cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md",
       "title": "Minimalist Vogue-style editorial cover with oversized white shirt"
+    },
+    {
+      "content_category": "Campaign Poster",
+      "fashion_use_case": "Luxury handbag product commercial poster with hero-product fidelity",
+      "filename": "powder-blue-trunk-bag-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Handbag",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/powder-blue-trunk-bag-campaign-poster.md",
+      "title": "Powder-Blue Trunk Bag Campaign Poster"
     },
     {
       "content_category": "Campaign Poster",

@@ -20,6 +20,10 @@ Explore prompts by their intended fashion use case.
 
 - [Korean Outfit Lookbook Animation Video](../cases/korean-outfit-lookbook-animation-video.md)
 
+### Luxury handbag product commercial poster with hero-product fidelity (1)
+
+- [Powder-Blue Trunk Bag Campaign Poster](../cases/powder-blue-trunk-bag-campaign-poster.md)
+
 ### Luxury resort knitwear campaign key visual with hero garment construction and typography (1)
 
 - [Scarlet Resort Knit Dress Campaign Poster](../cases/scarlet-resort-knit-dress-campaign-poster.md)
@@ -31,6 +35,10 @@ Explore prompts by their intended fashion use case.
 ### Product-centered fashion campaign poster with strict footwear and hosiery fidelity (1)
 
 - [Luxury Footwear Hosiery Campaign Poster](../cases/luxury-footwear-hosiery-campaign-poster.md)
+
+### Product-centered luxury travel-bag fashion campaign with hero duffel dominance, material fidelity, and commercial poster layout (1)
+
+- [Ivory Padded Duffel Campaign Poster](../cases/ivory-padded-duffel-campaign-poster.md)
 
 ### Product-centered Y2K sneaker campaign with coordinated full outfit and showroom styling (1)
 
@@ -47,3 +55,7 @@ Explore prompts by their intended fashion use case.
 ### Reference-locked luxury sandal cinematic footwear advertising with strict product consistency (1)
 
 - [Luxury Burgundy Sandal Footwear Commercial](../cases/luxury-burgundy-sandal-footwear-commercial.md)
+
+### Streetwear sneaker product poster with worn-on-foot hero and isolated catalog cutout (1)
+
+- [Maroon Canvas High-Top Campaign Poster](../cases/maroon-canvas-high-top-campaign-poster.md)

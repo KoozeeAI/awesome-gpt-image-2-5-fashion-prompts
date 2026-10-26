@@ -12,16 +12,19 @@ Explore prompts by the fashion product featured in each case.
 
 - [Minimalist Vogue-style editorial cover with oversized white shirt](../cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md)
 
-### Shoes (2)
+### Shoes (3)
 
 - [Luxury Burgundy Sandal Footwear Commercial](../cases/luxury-burgundy-sandal-footwear-commercial.md)
+- [Maroon Canvas High-Top Campaign Poster](../cases/maroon-canvas-high-top-campaign-poster.md)
 - [Y2K Luxury Sneaker Campaign Editorial](../cases/y2k-luxury-sneaker-campaign-editorial.md)
 
-### Handbag (3)
+### Handbag (5)
 
 - [Burgundy Leather Tote Merch Poster](../cases/burgundy-leather-tote-merch-poster.md)
+- [Ivory Padded Duffel Campaign Poster](../cases/ivory-padded-duffel-campaign-poster.md)
 - [Luxury Shopping Bag Campaign Poster](../cases/luxury-shopping-bag-campaign-poster.md)
 - [Luxury Spy Handbag Red Carpet Commercial](../cases/luxury-spy-handbag-red-carpet-commercial.md)
+- [Powder-Blue Trunk Bag Campaign Poster](../cases/powder-blue-trunk-bag-campaign-poster.md)
 
 ### Accessories (1)
 

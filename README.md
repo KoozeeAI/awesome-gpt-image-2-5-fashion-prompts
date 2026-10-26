@@ -41,11 +41,11 @@ GPT Image 2.5 is an AI image generation model. In fashion workflows, it can supp
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 11 |
-| Image Prompts | 9 |
+| Total Prompts | 14 |
+| Image Prompts | 12 |
 | Video Prompts | 2 |
 | Product Categories | 7 |
-| Fashion Use Cases | 11 |
+| Fashion Use Cases | 14 |
 
 ## ✨ Fashion Prompt Examples
 
@@ -132,7 +132,44 @@ The model forms a strong central vertical axis. Fluorescent hot-pink circles sit
 
 ---
 
-### No. 3: Korean Outfit Lookbook Animation Video
+### No. 3: Ivory Padded Duffel Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVUN66mbMAAuGd7.jpg" width="460" alt="Ivory Padded Duffel Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Handbag · Product-centered luxury travel-bag fashion campaign with hero duffel dominance, material fidelity, and commercial poster layout · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical luxury travel-bag fashion poster for the original brand "LUNEVRA", merging a quiet departure narrative with precise padded-luggage construction. The hero product is the LUNEVRA "CLOUDVAULT DUFFEL", an ivory padded cylindrical weekender bag. The visual style is surreal soft-studio fashion advertising: oversized serif typography in the background, a seated adult model in side profile, cream technical fabric, burgundy velvet ground, pale misty wall, and abstract warm spray strokes as atmospheric marks.
+
+Medium-low frontal fashion-poster viewpoint. The duffel fills the lower foreground as the largest object, slightly wider than the seated model’s torso but still physically credible as a large travel weekender. The adult model sits just behind and partly above the bag in calm side profile. The background wall remains open for oversized typography and a few soft abstract light marks.
+
+The ivory duffel anchors the bottom center as a rounded horizontal mass. The model’s s
+```
+...
+
+**[View full prompt →](./cases/ivory-padded-duffel-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Product-centered luxury travel-bag fashion campaign with hero duffel dominance, material fidelity, and commercial poster layout
+- **Content Category:** Campaign Poster
+- **Product Category:** Handbag
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113611535423791265)
+
+---
+
+### No. 4: Korean Outfit Lookbook Animation Video
 
 #### ▶️ Video Preview
 
@@ -177,7 +214,7 @@ At the same time, every product cutout inside the item panel rotates in place on
 
 ---
 
-### No. 4: Luxury Burgundy Sandal Footwear Commercial
+### No. 5: Luxury Burgundy Sandal Footwear Commercial
 
 #### ▶️ Video Preview
 
@@ -227,7 +264,7 @@ Dark futuristic fashion runway.
 
 ---
 
-### No. 5: Luxury Footwear Hosiery Campaign Poster
+### No. 6: Luxury Footwear Hosiery Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -262,7 +299,7 @@ Medium full-body studio framing on a white seamless background, slightly low eye
 
 ---
 
-### No. 6: Luxury Shopping Bag Campaign Poster
+### No. 7: Luxury Shopping Bag Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -297,7 +334,7 @@ Use a vertical poster format at eye level to slightly low angle, with a large pa
 
 ---
 
-### No. 7: Luxury Spy Handbag Red Carpet Commercial
+### No. 8: Luxury Spy Handbag Red Carpet Commercial
 
 #### 🖼️ Result Preview
 
@@ -332,7 +369,44 @@ TITLE: AGENT DUO CANTIK — SPY BAG RED CARPETDURATION: 30 secondsASPECT RATIO: 
 
 ---
 
-### No. 8: Minimalist burnt-orange fashion editorial poster with panel cutout
+### No. 9: Maroon Canvas High-Top Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVZUyjBasAAqZSl.jpg" width="460" alt="Maroon Canvas High-Top Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Shoes · Streetwear sneaker product poster with worn-on-foot hero and isolated catalog cutout · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical streetwear sneaker poster for the original overseas brand "KAVERO", combining low-angle streetwear attitude, precise canvas-sneaker construction, and a cleaner archival product-sheet layout. The hero product is the "RUST HIGHTOP", a maroon canvas high-top shown in two connected states: worn on the model and isolated as a catalog-style product cutout. The style is retro editorial collage: pale off-white margins, a faded teal title field, scratched paper texture, low-angle fashion photography, and a minimal product archive module.
+
+Low-angle full-body fashion viewpoint, looking upward at an adult model in a casual streetwear pose. The worn sneakers appear near the bottom edge, while the torso leans across the upper right. A clean side-profile product cutout sits in the lower-left middle inside a rough white outlined box, clearly separated as the archive view.
+
+A large faded teal rectangle fills most of the background, with the oversized title "KAVERO" spanning the t
+```
+...
+
+**[View full prompt →](./cases/maroon-canvas-high-top-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Streetwear sneaker product poster with worn-on-foot hero and isolated catalog cutout
+- **Content Category:** Campaign Poster
+- **Product Category:** Shoes
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113970338145173572)
+
+---
+
+### No. 10: Minimalist burnt-orange fashion editorial poster with panel cutout
 
 #### 🖼️ Result Preview
 
@@ -371,7 +445,7 @@ Use warm studio lighting, soft natural skin texture, subtle shadows,
 
 ---
 
-### No. 9: Minimalist Vogue-style editorial cover with oversized white shirt
+### No. 11: Minimalist Vogue-style editorial cover with oversized white shirt
 
 #### 🖼️ Result Preview
 
@@ -406,7 +480,44 @@ At the top, add a large black high-fashion magazine masthead reading “VOG
 
 ---
 
-### No. 10: Scarlet Resort Knit Dress Campaign Poster
+### No. 12: Powder-Blue Trunk Bag Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVT_cFhaMAA9Z-4.jpg" width="460" alt="Powder-Blue Trunk Bag Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Handbag · Luxury handbag product commercial poster with hero-product fidelity · Image.
+
+#### 💬 Prompt Preview
+
+```
+A full-bleed vertical luxury handbag poster for the original resort leather brand CIELOVA, merging wind-driven coastal narrative with precise trunk-bag craftsmanship. The hero product is the CIELOVA "SKYLOCK TRUNK", a powder-blue structured micro trunk bag suspended at the center of a low-angle fashion-commercial scene. The image combines realistic sunlit fashion photography, flat red-and-teal architectural color blocking, clean sky negative space, and sparse luxury typography.
+
+Extreme low-angle viewpoint from the terrace floor, looking upward from below waist height. The bag hangs in the lower-center foreground, close enough for the lock, corner plates, strap hardware, leather grain, and stitched panel edges to read clearly. The model, legs, and red geometric slabs rise around it, creating monumental scale without reducing product readability.
+
+Two tall red sculptural slabs stand at the left and right edges, with cool teal side planes angled inward to form a triangular gateway. The a
+```
+...
+
+**[View full prompt →](./cases/powder-blue-trunk-bag-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury handbag product commercial poster with hero-product fidelity
+- **Content Category:** Campaign Poster
+- **Product Category:** Handbag
+- **Creator:** Loriel.AI (@ou_zhen599)
+- **Source:** [View original source](https://x.com/ou_zhen599/status/2113595009828286511)
+
+---
+
+### No. 13: Scarlet Resort Knit Dress Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -443,7 +554,7 @@ The scarlet knit dress is the dominant product mass, forming a rounded sculptura
 
 ---
 
-### No. 11: Y2K Luxury Sneaker Campaign Editorial
+### No. 14: Y2K Luxury Sneaker Campaign Editorial
 
 #### 🖼️ Result Preview
 

@@ -41,15 +41,59 @@ GPT Image 2.5 is an AI image generation model. In fashion workflows, it can supp
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 17 |
-| Image Prompts | 15 |
+| Total Prompts | 22 |
+| Image Prompts | 20 |
 | Video Prompts | 2 |
-| Product Categories | 8 |
-| Fashion Use Cases | 17 |
+| Product Categories | 10 |
+| Fashion Use Cases | 22 |
 
 ## ✨ Fashion Prompt Examples
 
-### No. 1: Burgundy Leather Tote Merch Poster
+### No. 1: 1960s Car Mirror Fashion Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HT7Bgv2akAAvP-g.jpg" width="460" alt="1960s Car Mirror Fashion Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · 1960s vintage editorial outfit and accessory styling in a reflective full-body fashion image · Image.
+
+#### 💬 Prompt Preview
+
+```
+{
+  "aspect_ratio": "9:16",
+  "style": "hyperrealistic 1960s vintage editorial photography",
+  "composition": {
+    "concept": "full-body fashion portrait reflected inside a vintage car side mirror",
+    "mirror": "small oval chrome mirror with curved distorted edges",
+    "framing": "woman fully visible inside the reflection with generous background space",
+    "camera_position": "close to the driver's window, angled toward the mirror",
+    "pose": "woman walking toward the rear of the car while turning her head slightly toward the mirror"
+  },
+  "subject": {
+    "description": "beautiful young European woman with authentic skin texture",
+```
+...
+
+**[View full prompt →](./cases/1960s-car-mirror-fashion-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** 1960s vintage editorial outfit and accessory styling in a reflective full-body fashion image
+- **Content Category:** Fashion Editorial
+- **Product Category:** Dress
+- **Creator:** Cherry (@hey_am_cherry)
+- **Source:** [View original source](https://x.com/hey_am_cherry/status/2107334467161641240)
+
+---
+
+### No. 2: Burgundy Leather Tote Merch Poster
 
 #### 🖼️ Result Preview
 
@@ -95,7 +139,44 @@ The tote must remain visually faithful to the reference:
 
 ---
 
-### No. 2: Hot-Pink Sunglasses Street Campaign Poster
+### No. 3: GPT Image 2.5 Forbidden City Ming Hanfu editorial with face identity lock
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HSChYsubMAA-c2u.jpg" width="460" alt="GPT Image 2.5 Forbidden City Ming Hanfu editorial with face identity lock">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for High-end editorial magazine-cover fashion imagery with detailed ceremonial Hanfu wardrobe and styling specs alongside strict face-identity reference control · Image.
+
+#### 💬 Prompt Preview
+
+```
+High-end editorial fashion photograph, magazine cover quality (Vogue / Harper's Bazaar / ELLE), photorealistic — not an illustration, not 3D render, not AI-glossy.
+
+[your face image] is the identity reference. The subject is the adult woman in [your face image]: her facial features and bone structure must match EXACTLY — eye spacing, eye shape, nose bridge, nose tip, lip shape, jawline, cheekbone structure, chin. Same person, zero identity drift. Preserve her light purple eyes, pink-toned lips, and the small mole on her left cheek. Skin texture must be truly photorealistic: visible pores, fine skin detail, natural tonal variation, slightly imperfect real skin. Do NOT over-smooth, do NOT apply an Instagram-filter beauty look, no plastic skin.
+
+SCENE — WINTER AT THE FORBIDDEN CITY: a long red-walled corridor of the Beijing Forbidden City in winter. Vermilion painted walls, tall red lacquered pillars, intricate carved wooden latticed windows, painted wooden beams above with strong one-poi
+```
+...
+
+**[View full prompt →](./cases/gpt-image-2-5-forbidden-city-ming-hanfu-editorial-with-face-identity-lock.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** High-end editorial magazine-cover fashion imagery with detailed ceremonial Hanfu wardrobe and styling specs alongside strict face-identity reference control
+- **Content Category:** Not specified
+- **Product Category:** Not specified
+- **Creator:** FEY8ER
+- **Source:** [View original source](https://x.com/woleswoosh/status/2098855094355906649)
+
+---
+
+### No. 4: Hot-Pink Sunglasses Street Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -132,7 +213,7 @@ The model forms a strong central vertical axis. Fluorescent hot-pink circles sit
 
 ---
 
-### No. 3: Ivory Padded Duffel Campaign Poster
+### No. 5: Ivory Padded Duffel Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -169,7 +250,40 @@ The ivory duffel anchors the bottom center as a rounded horizontal mass. The mod
 
 ---
 
-### No. 4: Korean Outfit Lookbook Animation Video
+### No. 6: Japanese Y2K Street Fashion Editorial
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HVSJtT7bUAAQ0nK.jpg" width="460" alt="Japanese Y2K Street Fashion Editorial">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Y2K Japanese street fashion magazine-style editorial with specified outfit, footwear, and accessories · Image.
+
+#### 💬 Prompt Preview
+
+```
+9:16 vertical composition, ultra-photorealistic live-action fashion photography, Japanese street fashion editorial, Y2K street portrait, Japanese soft-focus street photography, soft glow, high bloom, slight blur, dreamy haze, and an airy analog film aesthetic.  **Subject:** A clearly adult East Asian woman, aged 23–27, with a naturally slim figure, fair warm-toned creamy skin, a small delicate oval face, subtly upturned cat-like eyes, deep brown irises, and soft nude-pink lips. She exudes a cool, effortlessly sensual, languid, and confident attitude.  **Hairstyle & Makeup:** Dark brown hair styled in a messy high updo with a loose, slightly undone bun. Wispy, slightly wet-looking bangs frame her forehead, with a few delicate strands naturally falling along her cheeks.  Low-saturation Japanese retro smoky makeup, soft taupe and gray-brown eyeshadow, long naturally defined eyelashes, subtle peach blush, and glossy nude-pink lips. Delicate, realistic skin texture with a soft luminous fini
+```
+...
+
+**[View full prompt →](./cases/japanese-y2k-street-fashion-editorial.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Y2K Japanese street fashion magazine-style editorial with specified outfit, footwear, and accessories
+- **Content Category:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** BubbleBrain (@BubbleBrain)
+- **Source:** [View original source](https://x.com/BubbleBrain/status/2113465711997960629)
+
+---
+
+### No. 7: Korean Outfit Lookbook Animation Video
 
 #### ▶️ Video Preview
 
@@ -214,7 +328,7 @@ At the same time, every product cutout inside the item panel rotates in place on
 
 ---
 
-### No. 5: Luxury Burgundy Sandal Footwear Commercial
+### No. 8: Luxury Burgundy Sandal Footwear Commercial
 
 #### ▶️ Video Preview
 
@@ -264,7 +378,7 @@ Dark futuristic fashion runway.
 
 ---
 
-### No. 6: Luxury Footwear Hosiery Campaign Poster
+### No. 9: Luxury Footwear Hosiery Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -299,7 +413,7 @@ Medium full-body studio framing on a white seamless background, slightly low eye
 
 ---
 
-### No. 7: Luxury Shopping Bag Campaign Poster
+### No. 10: Luxury Shopping Bag Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -334,7 +448,7 @@ Use a vertical poster format at eye level to slightly low angle, with a large pa
 
 ---
 
-### No. 8: Luxury Spy Handbag Red Carpet Commercial
+### No. 11: Luxury Spy Handbag Red Carpet Commercial
 
 #### 🖼️ Result Preview
 
@@ -369,7 +483,7 @@ TITLE: AGENT DUO CANTIK — SPY BAG RED CARPETDURATION: 30 secondsASPECT RATIO: 
 
 ---
 
-### No. 9: Luxury Swimwear Underwater Campaign Poster
+### No. 12: Luxury Swimwear Underwater Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -406,7 +520,7 @@ The model forms a long central vertical figure suspended in turquoise water. The
 
 ---
 
-### No. 10: Maroon Canvas High-Top Campaign Poster
+### No. 13: Maroon Canvas High-Top Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -443,7 +557,7 @@ A large faded teal rectangle fills most of the background, with the oversized ti
 
 ---
 
-### No. 11: Minimalist burnt-orange fashion editorial poster with panel cutout
+### No. 14: Minimalist burnt-orange fashion editorial poster with panel cutout
 
 #### 🖼️ Result Preview
 
@@ -482,7 +596,7 @@ Use warm studio lighting, soft natural skin texture, subtle shadows,
 
 ---
 
-### No. 12: Minimalist Vogue-style editorial cover with oversized white shirt
+### No. 15: Minimalist Vogue-style editorial cover with oversized white shirt
 
 #### 🖼️ Result Preview
 
@@ -517,7 +631,50 @@ At the top, add a large black high-fashion magazine masthead reading “VOG
 
 ---
 
-### No. 13: Overhead Racing Suit Campaign Poster
+### No. 16: Monochrome Streetwear Jersey Campaign Poster
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HTDuOloa8AA7J2Y.jpg" width="460" alt="Monochrome Streetwear Jersey Campaign Poster">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Streetwear · Luxury streetwear editorial campaign poster with specified jersey-and-denim styling · Image.
+
+#### 💬 Prompt Preview
+
+```
+Turning a portrait into a statement. Made with GPT Image 2.5
+
+Prompt:
+Create a high-end monochrome fashion editorial poster featuring a young male model standing confidently in the center of the frame.
+
+SUBJECT AND POSE:
+A young man with thick, naturally curly dark hair, medium-length curls with strong volume. He has a clean youthful face with subtle facial hair and a relaxed, confident expression. He stands facing the camera with his body slightly angled, shoulders relaxed, both hands casually placed inside the front pockets of his loose-fitting pants. His posture feels effortless and confident.
+
+He wears an oversized black vintage-inspired football jersey with white athletic stripes running along both shoulders and sleeves. The jersey has a large stylized script graphic reading "Reckless 07" across the chest, smaller "07" numbers on the upper chest and sleeves, a small crest emblem on the left chest, and subtle athletic branding details. Pair it with loose dark denim jeans.
+
+Add a ch
+```
+...
+
+**[View full prompt →](./cases/monochrome-streetwear-jersey-campaign-poster.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Luxury streetwear editorial campaign poster with specified jersey-and-denim styling
+- **Content Category:** Campaign Poster
+- **Product Category:** Streetwear
+- **Creator:** Harboris (@harboriis)
+- **Source:** [View original source](https://x.com/harboriis/status/2103442969952952761)
+
+---
+
+### No. 17: Overhead Racing Suit Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -554,7 +711,7 @@ The top-cropped car creates the first heavy black mechanical shape. The walking 
 
 ---
 
-### No. 14: Powder-Blue Trunk Bag Campaign Poster
+### No. 18: Powder-Blue Trunk Bag Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -591,7 +748,7 @@ Two tall red sculptural slabs stand at the left and right edges, with cool teal 
 
 ---
 
-### No. 15: Rouge Fold Evening Dress Campaign Poster
+### No. 19: Rouge Fold Evening Dress Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -628,7 +785,7 @@ The model and dress form the main photographic layer. A square embedded product 
 
 ---
 
-### No. 16: Scarlet Resort Knit Dress Campaign Poster
+### No. 20: Scarlet Resort Knit Dress Campaign Poster
 
 #### 🖼️ Result Preview
 
@@ -665,7 +822,40 @@ The scarlet knit dress is the dominant product mass, forming a rounded sculptura
 
 ---
 
-### No. 17: Y2K Luxury Sneaker Campaign Editorial
+### No. 21: White Tank Denim Editorial Portrait
+
+#### 🖼️ Result Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HUfoYNAbsAAnpkS.jpg" width="460" alt="White Tank Denim Editorial Portrait">
+</div>
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Identity-referenced fashion editorial portrait with specified outfit, sandals, and sunglasses in campaign-style studio layout · Image.
+
+#### 💬 Prompt Preview
+
+```
+Hyper-realistic IMAX-level Netflix-style cinematic fashion editorial portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a fitted white cropped tank top, high-waisted blue straight-leg jeans and beige open-toe block-heel sandals, accessorized with round blue mirrored sunglasses with thin gold frames. She stands with her torso facing mostly forward and her hips subtly shifted to one side, her left hand tucked into her front jeans pocket while her right arm hangs naturally beside her thigh; her legs are relaxed, with one knee slightly bent and one foot positioned forward. Her head faces the camera, chin level, with a composed, confident expression, relaxed brows, and softly closed lips behind the sunglasses. Her long honey-blonde hair has a center part, soft volume at the crown and loose flowing waves falling over both shoulders. Use natural fair skin with realis
+```
+...
+
+**[View full prompt →](./cases/white-tank-denim-editorial-portrait.md)**
+
+#### 🏷️ Details
+
+- **Model:** GPT Image 2.5
+- **Media Type:** Image
+- **Fashion Use Case:** Identity-referenced fashion editorial portrait with specified outfit, sandals, and sunglasses in campaign-style studio layout
+- **Content Category:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** Gopal Tiwari (@imGopalTiwari)
+- **Source:** [View original source](https://x.com/imGopalTiwari/status/2109910471717601369)
+
+---
+
+### No. 22: Y2K Luxury Sneaker Campaign Editorial
 
 #### 🖼️ Result Preview
 
@@ -722,9 +912,12 @@ Discover a fashion prompt → review the result → open the complete prompt →
 
 - [GPT Image 2 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts)
 - [Seedance 2.5 Fashion Prompts](https://github.com/KoozeeAI/awesome-seedance-2-5-fashion-prompts)
+- [Kling 4.0 Fashion Prompts](https://github.com/KoozeeAI/awesome-kling-4-fashion-prompts)
 
 ## 📚 Source & Attribution
 
 These prompts are curated from public sources. Original creator attribution and source links are retained wherever available.
+
+Full Original Prompts are preserved in each Case file; preview text is only a length-limited exact prefix.
 
 This model-specific repository is maintained by KOOZEE and synchronized from our internal prompt library.

@@ -1,6 +1,17 @@
 {
-  "case_count": 17,
+  "case_count": 22,
   "cases": [
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "1960s vintage editorial outfit and accessory styling in a reflective full-body fashion image",
+      "filename": "1960s-car-mirror-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Dress",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/1960s-car-mirror-fashion-editorial.md",
+      "title": "1960s Car Mirror Fashion Editorial"
+    },
     {
       "content_category": "Campaign Poster",
       "fashion_use_case": "Reference-faithful handbag hero SKU in an editorial merch-drop campaign poster",
@@ -11,6 +22,17 @@
       "raw_model": "GPT IMAGE 2.5",
       "source_path": "cases/burgundy-leather-tote-merch-poster.md",
       "title": "Burgundy Leather Tote Merch Poster"
+    },
+    {
+      "content_category": "Not specified",
+      "fashion_use_case": "High-end editorial magazine-cover fashion imagery with detailed ceremonial Hanfu wardrobe and styling specs alongside strict face-identity reference control",
+      "filename": "gpt-image-2-5-forbidden-city-ming-hanfu-editorial-with-face-identity-lock.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Not specified",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/gpt-image-2-5-forbidden-city-ming-hanfu-editorial-with-face-identity-lock.md",
+      "title": "GPT Image 2.5 Forbidden City Ming Hanfu editorial with face identity lock"
     },
     {
       "content_category": "Campaign Poster",
@@ -33,6 +55,17 @@
       "raw_model": "GPT Image 2.5",
       "source_path": "cases/ivory-padded-duffel-campaign-poster.md",
       "title": "Ivory Padded Duffel Campaign Poster"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Y2K Japanese street fashion magazine-style editorial with specified outfit, footwear, and accessories",
+      "filename": "japanese-y2k-street-fashion-editorial.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/japanese-y2k-street-fashion-editorial.md",
+      "title": "Japanese Y2K Street Fashion Editorial"
     },
     {
       "content_category": "Lookbook Video",
@@ -135,6 +168,17 @@
     },
     {
       "content_category": "Campaign Poster",
+      "fashion_use_case": "Luxury streetwear editorial campaign poster with specified jersey-and-denim styling",
+      "filename": "monochrome-streetwear-jersey-campaign-poster.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Streetwear",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/monochrome-streetwear-jersey-campaign-poster.md",
+      "title": "Monochrome Streetwear Jersey Campaign Poster"
+    },
+    {
+      "content_category": "Campaign Poster",
       "fashion_use_case": "Product commercial poster with hero racing suit and helmet construction showcase",
       "filename": "overhead-racing-suit-campaign-poster.md",
       "media_type": "Image",
@@ -176,6 +220,17 @@
       "raw_model": "GPT Image 2.5",
       "source_path": "cases/scarlet-resort-knit-dress-campaign-poster.md",
       "title": "Scarlet Resort Knit Dress Campaign Poster"
+    },
+    {
+      "content_category": "Fashion Editorial",
+      "fashion_use_case": "Identity-referenced fashion editorial portrait with specified outfit, sandals, and sunglasses in campaign-style studio layout",
+      "filename": "white-tank-denim-editorial-portrait.md",
+      "media_type": "Image",
+      "normalized_model_key": "gpt-image-2-5",
+      "product_category": "Full Outfit",
+      "raw_model": "GPT Image 2.5",
+      "source_path": "cases/white-tank-denim-editorial-portrait.md",
+      "title": "White Tank Denim Editorial Portrait"
     },
     {
       "content_category": "Fashion Editorial",

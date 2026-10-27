@@ -9,13 +9,16 @@ Explore prompts by their primary fashion output type.
 - [Luxury Burgundy Sandal Footwear Commercial](../cases/luxury-burgundy-sandal-footwear-commercial.md)
 - [Luxury Spy Handbag Red Carpet Commercial](../cases/luxury-spy-handbag-red-carpet-commercial.md)
 
-### Fashion Editorial (3)
+### Fashion Editorial (6)
 
+- [1960s Car Mirror Fashion Editorial](../cases/1960s-car-mirror-fashion-editorial.md)
+- [Japanese Y2K Street Fashion Editorial](../cases/japanese-y2k-street-fashion-editorial.md)
 - [Minimalist burnt-orange fashion editorial poster with panel cutout](../cases/minimalist-burnt-orange-fashion-editorial-poster-with-panel-cutout.md)
 - [Minimalist Vogue-style editorial cover with oversized white shirt](../cases/minimalist-vogue-style-editorial-cover-with-oversized-white-shirt.md)
+- [White Tank Denim Editorial Portrait](../cases/white-tank-denim-editorial-portrait.md)
 - [Y2K Luxury Sneaker Campaign Editorial](../cases/y2k-luxury-sneaker-campaign-editorial.md)
 
-### Campaign Poster (11)
+### Campaign Poster (12)
 
 - [Burgundy Leather Tote Merch Poster](../cases/burgundy-leather-tote-merch-poster.md)
 - [Hot-Pink Sunglasses Street Campaign Poster](../cases/hot-pink-sunglasses-street-campaign-poster.md)
@@ -24,6 +27,7 @@ Explore prompts by their primary fashion output type.
 - [Luxury Shopping Bag Campaign Poster](../cases/luxury-shopping-bag-campaign-poster.md)
 - [Luxury Swimwear Underwater Campaign Poster](../cases/luxury-swimwear-underwater-campaign-poster.md)
 - [Maroon Canvas High-Top Campaign Poster](../cases/maroon-canvas-high-top-campaign-poster.md)
+- [Monochrome Streetwear Jersey Campaign Poster](../cases/monochrome-streetwear-jersey-campaign-poster.md)
 - [Overhead Racing Suit Campaign Poster](../cases/overhead-racing-suit-campaign-poster.md)
 - [Powder-Blue Trunk Bag Campaign Poster](../cases/powder-blue-trunk-bag-campaign-poster.md)
 - [Rouge Fold Evening Dress Campaign Poster](../cases/rouge-fold-evening-dress-campaign-poster.md)
@@ -32,3 +36,7 @@ Explore prompts by their primary fashion output type.
 ### Lookbook Video (1)
 
 - [Korean Outfit Lookbook Animation Video](../cases/korean-outfit-lookbook-animation-video.md)
+
+### Not specified (1)
+
+- [GPT Image 2.5 Forbidden City Ming Hanfu editorial with face identity lock](../cases/gpt-image-2-5-forbidden-city-ming-hanfu-editorial-with-face-identity-lock.md)
